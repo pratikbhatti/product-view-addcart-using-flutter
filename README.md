@@ -11,7 +11,7 @@ This app is a add cart and view product list app. This app is made in flutter te
 </p>
 
 
-<h3>Add  Product View And Add Cart App Screen Video </h3>
+<h3>Product View And Add Cart App Screen Video </h3>
 <img src="https://user-images.githubusercontent.com/125340601/230569701-4ba00f84-2906-4e41-a75e-7f6078d4f6fb.mp4" weight="450" height="550"/>
 
 
